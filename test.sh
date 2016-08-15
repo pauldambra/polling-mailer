@@ -4,7 +4,7 @@ set -e
 
 (
 	cd server
-	npm test
+	npm install && npm test
 )
 
 (
