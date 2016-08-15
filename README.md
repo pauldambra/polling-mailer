@@ -15,9 +15,9 @@ I decided to see how much fun it would be to write an elixir app to
 
  TODO
 
- [*] set up API one
- [*] set up API two
- [*] set up API three
- [ ] elixir read model builder
- [ ] elixir read model pollers
- [ ] elixir notifier(s?)
+ - [x] set up API one
+ - [x] set up API two
+ - [x] set up API three
+ - [ ] elixir read model builder
+ - [ ] elixir read model pollers
+ - [ ] elixir notifier(s?)
